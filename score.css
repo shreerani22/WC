@@ -1,0 +1,23 @@
+table{
+    border: 2px solid black;
+}
+h1{
+    color:darkgoldenrod;
+    text-align: center;
+}
+body{
+    background-color: aliceblue;
+}
+tr{
+    background-color: bisque;
+}
+td{
+    border:1px solid red;
+}
+p{
+    color:blueviolet;
+    text-align: left;
+    letter-spacing: 3.5px;
+    word-spacing: 10px;
+    line-height: 1.5;
+}
